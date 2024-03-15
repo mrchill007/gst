@@ -1,4 +1,4 @@
-// Sample product data (replace with your own data)
+// Sample product data with image file names
 const products = [
   { name: "Product 1", price: "$10", image: "product1.jpg" },
   { name: "Product 2", price: "$15", image: "product2.jpg" },
