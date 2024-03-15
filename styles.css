@@ -1,0 +1,42 @@
+/* Navbar styles */
+.navbar {
+  background-color: #007bff; /* Bootstrap primary color */
+}
+
+.navbar-brand {
+  color: #fff; /* White color for navbar brand */
+}
+
+.nav-link {
+  color: #fff; /* White color for navbar links */
+}
+
+/* Product card styles */
+.card {
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  height: 200px; /* Set fixed height for product images */
+  object-fit: cover; /* Ensure images maintain aspect ratio and cover the entire container */
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #007bff; /* Bootstrap primary color */
+  border-color: #007bff; /* Bootstrap primary color */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker shade of primary color on hover */
+  border-color: #0056b3; /* Darker shade of primary color on hover */
+}
+
+/* Footer styles */
+footer {
+  background-color: #f8f9fa; /* Bootstrap light gray background color */
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Additional custom styles can be added here */
